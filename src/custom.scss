@@ -1,0 +1,27 @@
+$navbar-light-color: #ffffff50;
+$navbar-light-hover-color: #ffffff85;
+$navbar-light-active-color: #ffffff95;
+$navbar-light-brand-color: #ffffff;
+
+$card-color: #001b42;
+$card-cap-color: #001b42;
+
+
+
+
+$body-color: white;
+$headings-color: #d1d1d1;
+$font-family-base: Inter;
+$font-size-base: 1.25rem !default;
+
+$btn-link-hover-color: #ffffff50;
+
+
+h1{
+    -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: #000000;
+    text-shadow: 1px 1px #001b42;
+}
+
+
+@import "node_modules/bootstrap/scss/bootstrap.scss"
