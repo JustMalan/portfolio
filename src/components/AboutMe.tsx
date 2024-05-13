@@ -5,12 +5,6 @@ var sectionStyle = {
   margin: 0,
 };
 
-var imageStyle = {
-  display: "block",
-  height: "50%",
-  width: "auto",
-};
-
 function AboutMe() {
   return (
     <>

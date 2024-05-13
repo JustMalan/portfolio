@@ -1,11 +1,5 @@
 import { Navbar, Nav, NavDropdown, Container } from "react-bootstrap";
 
-var itemStyle = {
-  aHover: {
-    background: "#FFFFFF",
-  },
-};
-
 function NavBar() {
   return (
     <Navbar expand="lg" className="">
